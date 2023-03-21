@@ -5,7 +5,9 @@ import java.util.Scanner;
 public class Main {
 
 
+/*
     public class MorseCodeConverter {
+
 
         private static final String[] morseCodes = {".-", "-...", "-.-.", "-..", ".", "..-.", "--.", "....", "..", ".---", "-.-", ".-..", "--", "-.", "---", ".--.", "--.-", ".-.", "...", "-", "..-", "...-", ".--", "-..-", "-.--", "--..", " "};
         private static final char[] letters = {'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z', ' '};
@@ -70,5 +72,5 @@ public class Main {
             return -1;
         }
 
-    }
+    }*/
 }
